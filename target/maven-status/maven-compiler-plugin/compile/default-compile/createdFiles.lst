@@ -1,0 +1,10 @@
+co\uk\krisdan\timestable\ConcreteTimesTable.class
+co\uk\krisdan\timestable\TimesTable.class
+co\uk\krisdan\timestable\TimesTableAPI.class
+co\uk\krisdan\timestable\calc\Calculations.class
+co\uk\krisdan\timestable\VanillaTimesTableAPI.class
+co\uk\krisdan\timestable\Main.class
+co\uk\krisdan\timestable\questions\Question.class
+co\uk\krisdan\timestable\questions\SimpleMathQuestion.class
+co\uk\krisdan\timestable\questions\MathQuestion.class
+co\uk\krisdan\timestable\exceptions\MathOperatorException.class
